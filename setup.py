@@ -18,8 +18,8 @@ requires = [
     'transaction',
     'zope.sqlalchemy',
     'waitress',
-    'behave',
     'webhelpers',
+    'behave',
     ]
 
 setup(name='pyramid_behave',

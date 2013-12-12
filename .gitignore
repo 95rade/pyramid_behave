@@ -8,6 +8,8 @@ data/
 # web assets generated directory
 gen/
 .webassets-cache/
+*.output
+*.sqlite*
 
 *.py[co]
 
