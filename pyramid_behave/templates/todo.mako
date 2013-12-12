@@ -1,0 +1,1 @@
+${todo.task}, ${todo.completed}
