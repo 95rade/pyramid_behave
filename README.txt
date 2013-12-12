@@ -6,7 +6,9 @@ Getting Started
 
 - cd <directory containing this file>
 
-- $VENV/bin/python setup.py develop
+- $VENV/bin/pip install -e .
+
+- $VENV/bin/behave
 
 - $VENV/bin/initialize_pyramid_behave_db development.ini
 
